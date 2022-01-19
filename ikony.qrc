@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Ikony">
+        <file>tool.jpg</file>
+        <file>save-icon-5403.png</file>
+        <file>242-2424169_exit-button-icon-power-off-icon-white.jpeg</file>
+        <file>open.png</file>
+    </qresource>
+</RCC>
